@@ -85,7 +85,7 @@ The total number of possible Bitcoin private keys is approximately 2^256. That's
 
 ---  
 
-*Made with ❤️ and too much caffeine by people who definitely don't have kangaroos in their offices.*  
+*Made with ❤️ and too much caffeine.*  
 
 ---
 
